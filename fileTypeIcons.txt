@@ -1,0 +1,7 @@
+File type icons in SharePoint
+<tenant root>/_layouts/15/images/icpdf.png'
+<tenant root>/_layouts/15/images/icdocx.png'
+<tenant root>/_layouts/15/images/icxlsx.png'
+<tenant root>/_layouts/15/images/icpptx.png'
+<tenant root>/_layouts/15/images/icpng.png'
+<tenant root>/_layouts/images/icgen.gif'
