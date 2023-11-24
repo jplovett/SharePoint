@@ -1,0 +1,1 @@
+="FFY"&IF(DATE(YEAR(Created),10,1)>Created,YEAR(Created),YEAR(Created)+1)
