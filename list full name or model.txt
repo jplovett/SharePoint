@@ -1,0 +1,12 @@
+https://abc.sharepoint.com/teams/site/_api/lists/getbytitle('Group%20Calendar')?$select=ListItemEntityTypeFullName
+
+will return in xml the list full name:
+<m:properties>
+  <d:ListItemEntityTypeFullName>
+    SP.Data.PPDU_x0020_CalendarListItem
+  </d:ListItemEntityTypeFullName>
+</m:properties>
+
+notice the list name has a space or %20 in the name passed in which becomes _x0020_
+
+this is from the list original name at creation time
