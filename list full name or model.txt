@@ -3,7 +3,7 @@ https://abc.sharepoint.com/teams/site/_api/lists/getbytitle('Group%20Calendar')?
 will return in xml the list full name:
 <m:properties>
   <d:ListItemEntityTypeFullName>
-    SP.Data.PPDU_x0020_CalendarListItem
+    SP.Data.Group_x0020_CalendarListItem
   </d:ListItemEntityTypeFullName>
 </m:properties>
 
